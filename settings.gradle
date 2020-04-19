@@ -1,2 +1,5 @@
 rootProject.name = 'MultiThreading'
+include 'Messages'
+include 'Threads'
+include 'Threads'
 

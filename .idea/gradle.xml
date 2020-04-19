@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Messages" />
+            <option value="$PROJECT_DIR$/Threads" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />
